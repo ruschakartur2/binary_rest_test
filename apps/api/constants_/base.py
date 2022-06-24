@@ -1,0 +1,3 @@
+import os
+
+DROPBOX_ACCESS_TOKEN = os.environ['DROPBOX_ACCESS_TOKEN']
